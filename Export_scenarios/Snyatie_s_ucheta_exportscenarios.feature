@@ -1,6 +1,6 @@
 ﻿#language: ru
 
-@tree
+@ExportScenarios
 
 Функционал: Отработка документа Снятие с учета
 
